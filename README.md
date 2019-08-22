@@ -1,6 +1,6 @@
 # Stop Signal Task
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdkent/hrfViz/master?urlpath=/proxy/5006/bokeh-app)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdkent/modelExample/master?urlpath=/proxy/5006/bokeh-app)
 
 This is a little play simulation for the stop signal task.
 
